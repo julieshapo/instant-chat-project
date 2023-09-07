@@ -1,6 +1,6 @@
 import NavBar from "./components/NavBar";
-import ChatRoom from "./Pages/ChatRoom";
-import Auth from "./Pages/Auth";
+import ChatRoom from "./pages/ChatRoom";
+import Auth from "./pages/Auth";
 import { Route, Routes } from "react-router-dom";
 import { PrivatRoute } from "./routes/PrivatRoute";
 import { AuthProvider } from "./context/AuthContext";
