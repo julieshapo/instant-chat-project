@@ -1,4 +1,4 @@
-import NavBar from "./Components/NavBar";
+import NavBar from "./components/NavBar";
 import ChatRoom from "./Pages/ChatRoom";
 import Auth from "./Pages/Auth";
 import { Route, Routes } from "react-router-dom";
