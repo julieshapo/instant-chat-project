@@ -36,7 +36,7 @@ const Auth = () => {
             Join the conversation,meet new people, and make connections in one{" "}
             shared room. Lets go!
           </p>
-          <button onClick={handleAuth} className="btn btn-neutral">
+          <button onClick={handleAuth} className="btn glass hover:btn-warning">
             Login with Google
           </button>
         </div>
