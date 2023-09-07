@@ -45,7 +45,7 @@ const SendMessage = () => {
           type="text"
         />
         <button
-          className="w-auto bg-gray-500 font-medium text-white rounded-r-lg px-5 text-sm uppercase hover:btn-warning"
+          className="w-auto bg-gray-500 font-medium text-white rounded-r-lg px-5 text-xs tracking-wide uppercase hover:btn-warning ease-linear duration-200"
           type="submit"
         >
           Send

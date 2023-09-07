@@ -18,7 +18,7 @@ const NavBar = () => {
         {currentUser ? (
           <button
             onClick={handleLogout}
-            className="btn btn-neutral uppercase text-sm hover:text-yellow-400 "
+            className="btn btn-neutral normal-case text-base hover:text-yellow-400 "
           >
             LogOut
           </button>
