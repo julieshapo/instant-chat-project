@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyBNVZFgytEjdMvwOde8nxXCOC7qITp-zno",
-  authDomain: "instantchat-35d43.firebaseapp.com",
+  authDomain: "instant-chat-project-pink.vercel.app",
   projectId: "instantchat-35d43",
   storageBucket: "instantchat-35d43.appspot.com",
   messagingSenderId: "361874264885",
